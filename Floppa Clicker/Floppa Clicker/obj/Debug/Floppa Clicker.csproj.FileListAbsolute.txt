@@ -1,0 +1,10 @@
+C:\Users\WIN 10\source\repos\Floppa Clicker\Floppa Clicker\bin\Debug\Floppa Clicker.exe.config
+C:\Users\WIN 10\source\repos\Floppa Clicker\Floppa Clicker\bin\Debug\Floppa Clicker.exe
+C:\Users\WIN 10\source\repos\Floppa Clicker\Floppa Clicker\bin\Debug\Floppa Clicker.pdb
+C:\Users\WIN 10\source\repos\Floppa Clicker\Floppa Clicker\obj\Debug\Floppa Clicker.csproj.AssemblyReference.cache
+C:\Users\WIN 10\source\repos\Floppa Clicker\Floppa Clicker\obj\Debug\Floppa_Clicker.Form1.resources
+C:\Users\WIN 10\source\repos\Floppa Clicker\Floppa Clicker\obj\Debug\Floppa_Clicker.Properties.Resources.resources
+C:\Users\WIN 10\source\repos\Floppa Clicker\Floppa Clicker\obj\Debug\Floppa Clicker.csproj.GenerateResource.cache
+C:\Users\WIN 10\source\repos\Floppa Clicker\Floppa Clicker\obj\Debug\Floppa Clicker.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\source\repos\Floppa Clicker\Floppa Clicker\obj\Debug\Floppa Clicker.exe
+C:\Users\WIN 10\source\repos\Floppa Clicker\Floppa Clicker\obj\Debug\Floppa Clicker.pdb
